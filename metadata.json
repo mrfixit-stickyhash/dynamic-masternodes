@@ -1,0 +1,5 @@
+{
+  "name": "YadaCoin Dynamic Masternodes",
+  "description": "A dashboard and implementation visualizer for the transition to dynamic masternodes on the YadaCoin network.",
+  "requestFramePermissions": []
+}
